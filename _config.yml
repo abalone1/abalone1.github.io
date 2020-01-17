@@ -15,7 +15,7 @@ email: davidwohlenberg@web.de
 twitter_username: davidwohlenberg
 
 # Set this to true to get LaTeX math equation support
-use_math: True
+use_math: true
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
