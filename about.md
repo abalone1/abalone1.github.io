@@ -1,4 +1,5 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+Spatial Data is my world. Receantly i am interested in deep learning and how to apply it to Geodata.
+I studied Geoinformation at Beuth-Hochschule Berlin.
 
